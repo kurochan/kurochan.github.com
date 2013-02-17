@@ -1,2 +1,0 @@
-kurochan.github.com
-===================
